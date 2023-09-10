@@ -1,6 +1,4 @@
-https://capsule-render.vercel.app/api?
-
-
+![header](https://capsule-render.vercel.app/api?type=Waving)
 
 <h2 align="center">  Hi, I'm jung Yum👻 </h2>
 
