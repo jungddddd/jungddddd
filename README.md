@@ -7,7 +7,7 @@ I'm majoring in Software Convergence.
 I'm a novice developer who tries to gain various experinences.
 
 
-## What I Use
+## The one I've used
 
 <table>
   <tbody>
@@ -15,10 +15,6 @@ I'm a novice developer who tries to gain various experinences.
       <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
@@ -30,10 +26,6 @@ I'm a novice developer who tries to gain various experinences.
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -52,7 +44,7 @@ I'm a novice developer who tries to gain various experinences.
 
 
 ### Programming Languages 🌐
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | <img src="https://cdn.svgporn.com/logos/c.svg" alt="C" width="24"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="24"> |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | <img src="https://cdn.svgporn.com/logos/c.svg" alt="C" width="24"> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="24"> |
 |---|---|---|---|---|---|
 
 
