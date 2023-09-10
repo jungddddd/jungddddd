@@ -1,8 +1,8 @@
-### Hi, I'm jung Yum👻
+<h2 align="center">  Hi, I'm jung Yum👻 </h2>
 
-I'm majoring in Software Convergence.
 
-I'm a novice developer who tries to gain various experinences.
+<p align="center"> I'm majoring in Software Convergence.</p>
+<p align="center"> I'm a novice developer who tries to gain various experinences.</p>
 
 
 
