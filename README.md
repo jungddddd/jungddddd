@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-![header](https://capsule-render.vercel.app/api?text=Jung's Development Journal)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Jung's%20Development%20Journal&fontSize=90)
+
 
 <h2 align="center">  Hi, I'm jung Yum👻 </h2>
 
