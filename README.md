@@ -1,11 +1,12 @@
 
 ## Hi, I'm jung Yum👻
----
+
 
 I'm majoring in Software Convergence.
 
 I'm a novice developer who tries to gain various experinences.
 
+---
 
 ### Programming Languages 🌐
 
