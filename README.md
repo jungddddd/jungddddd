@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Development%20Journal&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Development%20Journal&fontSize=30)
 
 
 <h2 align="center">  Hi, I'm jung Yum👻 </h2>
