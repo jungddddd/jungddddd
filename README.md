@@ -10,7 +10,7 @@ I'm a novice developer who tries to gain various experinences.
 ### Programming Languages 🌐
 
 
-<h2 align="center"> ### Tools 🛠️
+### Tools 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
