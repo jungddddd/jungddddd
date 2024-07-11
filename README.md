@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Jung's%20Development%20Journal&fontSize=30)
 
 
-<h2 align="center">  Hi, I'm jung Yum👻 </h2>
-
 
 <p align="center"> I'm majoring in Software Convergence.</p>
 <p align="center"> I'm a novice developer who tries to gain various experinences.</p>
